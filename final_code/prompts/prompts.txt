@@ -1,0 +1,11 @@
+Following the format of these reports, output 500 accident-free normal driving reports into a file. The reports should contain concise environmental descriptions and detailed descriptions of driving behaviors and driving scenarios, and each report should be as non-repetitive as possible. The output description content is placed in "". No number or title is required outside the "". In the driving report, try to emphasize avoiding the following driving behaviors:
+
+Apparent inexperience with vehicle/roadway, Blind spot error ,Improper turn, Right-of-way error, Signal violation, Stop/yield sign violation, Wrong side of road, Driving too slowly ,Sudden or improper braking/stopping, Failed to signal, Aggressive driving (general observed behavior), Speeding (over limit and too fast for conditions), Speeding/unsafe in work zone Illegal/unsafe passing, Following too closely, Intentional signal violation, Intentional stop/yield sign violation
+
+In the output normal driving reports, vehicle movements and environmental factors should be selected from the following list:
+
+Weather: Clear, Cloudy, Raining , Snowing, Fog/Visibility Other, Wind
+Lighting: Daylight, Dusk-Dawn, Dark-Street Lights, Dark-No Street Lights, Dark-Street Lights not Functioning
+Roadway: Dry, Wet, Snowy, Slippery
+Road condition: Holes, Loose Material on Roadway, Obstruction, Construction, Reduced Roadway Width, Flooded, Other, Usual
+Movement: stopped, proceeding straight, making right turn, making left turn, making u turn, backing, slowing/stopping, passing other vehicle, changing lanes, parking
