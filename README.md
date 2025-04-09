@@ -2,6 +2,8 @@
 
 1. Environment setup
 
+Install the conda environment. Please note that not all configurations in the provided environment file are required.
+
 2. Dataset download:
 
 Download the video dataset from the DAD official page and split it according to the official introduction (https://github.com/MoonBlvd/tad-IROS2019).
@@ -22,4 +24,8 @@ Deploy Long-CLIP (https://github.com/beichenzbc/Long-CLIP), use ‘longclip.toke
 
 6. Video feature extraction:
 
+Use the extractor script provided in the code library to extract video features.
 
+7. Modify all input and output paths to your own path.
+
+8. Run the experiment.
